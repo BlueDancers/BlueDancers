@@ -1,6 +1,6 @@
 Hello, I am 红茶👋👋
 
-## 基本介绍
+## Basic introduction
 
 Graduation in July 2021👨‍🎓 
 
