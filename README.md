@@ -14,7 +14,9 @@ Responsible for the  development of an online mall in an Internet company🏬
 
 Mainly use `Vue` + `Typescript` for development🥂
 
-A little bit of UI design (sketch), a little bit of Research & Development(Node), I use them to do some open source in my free time🌃
+使用sketch完成ui设计，使用Node完成研发，我利用它们在空闲时间做一些开源工作
+
+Use Sketch to complete UI design and Node to complete R&D. I use them to do some open source work in my free time🌃
 
 The latest article is updated in the **Juejin**：[Juejin](https://juejin.cn/user/3720403077840519)🆕
 
