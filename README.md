@@ -18,7 +18,7 @@ Use Sketch to complete UI design and Node to complete R&D. I use them to do some
 
 The latest article is updated in the **Juejin**：[Juejin](https://juejin.cn/user/3720403077840519)🆕
 
-contact me：carpediem-rollin
+contact me：wechat（carpediem-rollin）
 
 
 
