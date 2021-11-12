@@ -20,6 +20,10 @@ The latest article is updated in the **Juejin**：[Juejin](https://juejin.cn/use
 
 contact me：wechat（carpediem-rollin）
 
+Love to listen to Dr. Chen's song🎧
+
+Play badminton once a week🏸
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkcyan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
