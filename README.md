@@ -1,30 +1,17 @@
-Hello, I am BlueDancers👋👋
+## Hi，我是vk
 
-## Basic introduction
+我长期从事互联网、电商运营、AI 产品、权益会员和品牌商务相关工作，同时具备前端开发、产品设计、渠道运营、内容营销和团队协作管理经验。
 
-Graduation in July 2021👨‍🎓 
+我关注的不只是代码本身，更关注技术如何进入真实业务场景：如何提升运营效率、沉淀行业信息、优化协作流程，并把零散经验转化为可复用的产品、工具或知识系统。
 
-browser side engineer（FE）👨‍💻‍ 
+技术方向上，主要使用 Vue、TypeScript、Node.js 进行 Web 产品和内部工具开发，也持续探索 AI Agent、自动化工作流、数据看板、知识库和业务系统原型。
 
-Love open source, happy to share ❤️
+业务方向上，长期关注电商平台、权益会员、品牌合作、渠道分销、内容增长和组织信息沉淀。希望通过技术、产品和运营的结合，做出真正能解决问题、能长期迭代的系统。
 
-I hope meet more like-minded friends😊
+### 关注方向
 
-Responsible for the  development of an online mall in an Internet company🏬
-
-Mainly use `Vue` + `Typescript` for development🥂
-
-Use Sketch to complete UI design and Node to complete R&D. I use them to do some open source work in my free time🌃
-
-The latest article is updated in the **Juejin**：[Juejin](https://juejin.cn/user/3720403077840519)🆕
-
-contact me：wechat（vk-1130）
-
-Love to listen to Eason Chan and Jay Chou song🎧
-
-Play badminton once a week🏸
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueDancers&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+- 前端开发 / Vue / TypeScript / Node.js
+- AI 产品 / Agent 工作流 / 自动化工具
+- 电商运营 / 权益会员 / 品牌商务
+- 业务系统 / 数据看板 / 知识库建设
+- 内容策略 / 运营管理 / 组织信息沉淀
